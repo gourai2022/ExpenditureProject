@@ -1,0 +1,108 @@
+E:/Projects/ExpenditureProject/ExpenditureProject/bin/Debug/ExpenditureProject.exe.config
+E:/Projects/ExpenditureProject/ExpenditureProject/bin/Debug/ExpenditureProject.exe
+E:/Projects/ExpenditureProject/ExpenditureProject/bin/Debug/ExpenditureProject.pdb
+E:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.csprojResolveAssemblyReference.cache
+E:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Properties.Resources.resources
+E:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.csproj.GenerateResource.Cache
+E:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.exe
+E:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.pdb
+E:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.DashBoard.resources
+E:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Home.resources
+E:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.ShowExpenses.resources
+E:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Expiry_Of_An_Item.resources
+E:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Help.resources
+E:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Expenses.frmWaterRent.resources
+E:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmMainExpences.resources
+E:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.HomeRent.resources
+E:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmAddExpenses.resources
+P:/Projects/ExpenditureProject/ExpenditureProject/bin/Debug/ExpenditureProject.exe.config
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.exe
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.pdb
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.csprojResolveAssemblyReference.cache
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.DashBoard.resources
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.HomeRent.resources
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Expenses.frmWaterRent.resources
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Expiry_Of_An_Item.resources
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Form1.resources
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmAddExpenses.resources
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmMainExpences.resources
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Help.resources
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Home.resources
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Properties.Resources.resources
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.ShowExpenses.resources
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.csproj.GenerateResource.Cache
+P:/Projects/ExpenditureProject/ExpenditureProject/bin/Debug/ExpenditureProject.exe
+P:/Projects/ExpenditureProject/ExpenditureProject/bin/Debug/ExpenditureProject.pdb
+P:/Projects/ExpenditureProject/ExpenditureProject/bin/Debug/ExpenditureProject.exe.manifest
+P:/Projects/ExpenditureProject/ExpenditureProject/bin/Debug/ExpenditureProject.application
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.exe.manifest
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.application
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/RdlCompile.cache
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/RdlCompile.compiled
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmBillsToPay.resources
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmMyBudget.resources
+P:/Projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmMySaving.resources
+E:/MyProjects/ExpenditureProject/ExpenditureProject/bin/Debug/ExpenditureProject.exe.config
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.exe
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.pdb
+E:/MyProjects/ExpenditureProject/ExpenditureProject/bin/Debug/ExpenditureProject.exe.manifest
+E:/MyProjects/ExpenditureProject/ExpenditureProject/bin/Debug/ExpenditureProject.application
+E:/MyProjects/ExpenditureProject/ExpenditureProject/bin/Debug/ExpenditureProject.exe
+E:/MyProjects/ExpenditureProject/ExpenditureProject/bin/Debug/ExpenditureProject.pdb
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.csprojResolveAssemblyReference.cache
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmBillsToPay.resources
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.DashBoard.resources
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.HomeRent.resources
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Expenses.frmWaterRent.resources
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Expiry_Of_An_Item.resources
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Form1.resources
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmAddExpenses.resources
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmMainExpences.resources
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmMyBudget.resources
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmMySaving.resources
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Help.resources
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Home.resources
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Properties.Resources.resources
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.ShowExpenses.resources
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.csproj.GenerateResource.Cache
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/RdlCompile.cache
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/RdlCompile.compiled
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.exe.manifest
+E:/MyProjects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.application
+C:/Users/gouri/Documents/Currunt working projects/ExpenditureProject/ExpenditureProject/bin/Debug/ExpenditureProject.exe.config
+C:/Users/gouri/Documents/Currunt working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.exe
+C:/Users/gouri/Documents/Currunt working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.pdb
+C:/Users/gouri/Documents/Currunt working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.csprojResolveAssemblyReference.cache
+C:/Users/gouri/Documents/Currunt working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmBillsToPay.resources
+C:/Users/gouri/Documents/Currunt working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.DashBoard.resources
+C:/Users/gouri/Documents/Currunt working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.HomeRent.resources
+C:/Users/gouri/Documents/Currunt working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Expenses.frmWaterRent.resources
+C:/Users/gouri/Documents/Currunt working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Expiry_Of_An_Item.resources
+C:/Users/gouri/Documents/Currunt working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Form1.resources
+C:/Users/gouri/Documents/Currunt working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmAddExpenses.resources
+C:/Users/gouri/Documents/Currunt working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmMainExpences.resources
+C:/Users/gouri/Documents/Currunt working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmMyBudget.resources
+C:/Users/gouri/Documents/Currunt working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmMySaving.resources
+C:/Users/gouri/Documents/Currunt working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Help.resources
+C:/Users/gouri/Documents/Currunt working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Home.resources
+C:/Users/gouri/Documents/Currunt working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Properties.Resources.resources
+C:/Users/gouri/Documents/Currunt working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.ShowExpenses.resources
+C:/Users/gouri/Documents/Currunt working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.csproj.GenerateResource.Cache
+/Users/ashwinikumarkulkarni/Documents/Gouri/Current working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.csproj.AssemblyReference.cache
+/Users/ashwinikumarkulkarni/Documents/Gouri/Current working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmBillsToPay.resources
+/Users/ashwinikumarkulkarni/Documents/Gouri/Current working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.DashBoard.resources
+/Users/ashwinikumarkulkarni/Documents/Gouri/Current working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.HomeRent.resources
+/Users/ashwinikumarkulkarni/Documents/Gouri/Current working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Expenses.frmWaterRent.resources
+/Users/ashwinikumarkulkarni/Documents/Gouri/Current working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Expiry_Of_An_Item.resources
+/Users/ashwinikumarkulkarni/Documents/Gouri/Current working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Form1.resources
+/Users/ashwinikumarkulkarni/Documents/Gouri/Current working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmAddExpenses.resources
+/Users/ashwinikumarkulkarni/Documents/Gouri/Current working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmMainExpences.resources
+/Users/ashwinikumarkulkarni/Documents/Gouri/Current working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmMyBudget.resources
+/Users/ashwinikumarkulkarni/Documents/Gouri/Current working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.frmMySaving.resources
+/Users/ashwinikumarkulkarni/Documents/Gouri/Current working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Help.resources
+/Users/ashwinikumarkulkarni/Documents/Gouri/Current working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Home.resources
+/Users/ashwinikumarkulkarni/Documents/Gouri/Current working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.Properties.Resources.resources
+/Users/ashwinikumarkulkarni/Documents/Gouri/Current working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.ShowExpenses.resources
+/Users/ashwinikumarkulkarni/Documents/Gouri/Current working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.csproj.GenerateResource.cache
+/Users/ashwinikumarkulkarni/Documents/Gouri/Current working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.exe
+/Users/ashwinikumarkulkarni/Documents/Gouri/Current working projects/ExpenditureProject/ExpenditureProject/obj/Debug/ExpenditureProject.pdb
